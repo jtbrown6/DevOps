@@ -1,12 +1,8 @@
----
-description: 'If You''re Reading This, It''s Too Late'
----
+# Configuration Settings
 
-# Welcome to the DevOps Handbook
+## Tool Kits
 
-## MacOS Terminal Configurations
-
-Ensure iTerm2 is configured to aid in Git Commits
+Becoming a super hero is a fairly straight forward process:
 
 ```
 $ give me super-powers

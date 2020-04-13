@@ -1,4 +1,8 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Welcome to the DevOps Handbook](README.md)
+
+## Python
+
+* [Configuration Settings](python/configuration-settings.md)
 
