@@ -1,29 +1,28 @@
----
-description: 'If You''re Reading This, It''s Too Late'
----
-
 # Welcome to the DevOps Handbook
 
-## MacOS Terminal Configurations
+## Table of Contents
+- Git Remote Quick Wins 
+- Configuring the iTerm2 Terminal
+- Setting up Python
+- Setting up Ansible
 
-Ensure iTerm2 is configured to aid in Git Commits
-
+### Git Remote Quick Wins
+``` bash
+    $ git checkout -b newBranch
+    $ git add .
+    $ git commit -m "message"
+    $ git push origin newBranch
 ```
-$ give me super-powers
-```
+### Configuring the iTerm2 Terminal for MacOS
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
 
-Once you're strong enough, save the world:
 
-{% code title="hello.sh" %}
+ This is a text block 
+
 ```bash
 # Ain't no code for that yet, sorry
 echo 'You got to trust me on this, I saved the world'
 ```
-{% endcode %}
 
 
 
