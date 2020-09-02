@@ -15,7 +15,7 @@ Setting up Python
 ```
 scp file.text ansible:/home/ec2-user
 ```
-*Copy key to remove server*
+*Copy key to remote server*
 ```
 cat ~/.ssh/id_rsa.pub | ssh -i aws.pem ubuntu@<ip> "cat ->> ~/.ssh/authorized_keys2
 ```
