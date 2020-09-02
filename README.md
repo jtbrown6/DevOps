@@ -1,10 +1,13 @@
 # Welcome to the DevOps Handbook
 
 ## Table of Contents
-- Git Remote Quick Wins 
-- Configuring the iTerm2 Terminal
-- Setting up Python
-- Setting up Ansible
+Git Remote Quick Wins 
+
+Configuring the iTerm2 Terminal
+
+Setting up Python
+
+[Setting up Ansible](#Ansible)
 
 ### Git Remote Quick Wins
 ``` bash
@@ -25,4 +28,5 @@ echo 'You got to trust me on this, I saved the world'
 ```
 
 
+## Ansible
 
