@@ -7,7 +7,7 @@ This learning path contains an array of courses that will provide a good backgro
 
 Duration: 2 days, 7 hours
 
-- [ ] Source Control with Git
+- [ ] [Source Control with Git](/readme.md)
 - [ ] Deploying to AWS with Ansible and Terraform - Deprecated Aug 2020
 - [ ] Certified Jenkins Engineer (CJE) - 2017
 - [ ] NGINX Web Server Deep Dive
