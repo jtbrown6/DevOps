@@ -10,7 +10,7 @@ Duration: 2 days, 7 hours
 - [ ] Source Control with Git
 - [ ] Deploying to AWS with Ansible and Terraform - Deprecated Aug 2020
 - [ ] Certified Jenkins Engineer (CJE) - 2017
-- [ ] NGINX Web Server Deep Dive
+- [ ] [NGINX Web Server Deep Dive](/NGINX.md)
 - [ ] Python 3 Scripting for System Administrators
 - [ ] SQL Primer
 - [ ] Lambda Deep Dive
