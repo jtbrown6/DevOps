@@ -11,6 +11,8 @@ Setting up Python
 
 [NGINX](/NGINX.md)
 
+[AWS](/AWS.md)
+
 ## Linux
 
 *Moving local file to ec2-instance*
