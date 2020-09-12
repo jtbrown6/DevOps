@@ -61,8 +61,25 @@ Duration: 3 Days, 18:29:49
 
 ## Python Learning Paths
 
-### Full List of Course
+## Interesting Courses - Linux Academy
 
+- Building a CI/CD Pipeline with AWS CodePipeline to Deploy a Static Website on S3
+
+- Using NGINX as a Reverse Proxy for an Application and Blog
+
+- Configure a Back End for a Web Application
+
+## Interesting Courses - Udemy
+
+- The Python Mega Coruse: Build 10 Real World Apps
+
+- Complete Python Web Course: Build 8 Python Web Apps
+
+- Advanced Scalable Python Web Development Using Flask
+
+## Full List of Courses
+
+<details>
 - AWS Cloud Engineer - Mid Level 
 
 - AWS Cloud Engineer - Mid Level (LEGACY) 
@@ -269,3 +286,4 @@ Duration: 3 Days, 18:29:49
 
 - Train to Play 
 
+</details>
