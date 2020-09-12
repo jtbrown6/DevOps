@@ -7,9 +7,9 @@ Configuring the iTerm2 Terminal
 
 Setting up Python
 
-[Ansible](#Ansible.md)
+[Ansible](/Ansible.md)
 
-[NGINX](#/NGINX.md)
+[NGINX](/NGINX.md)
 
 ## Linux
 
