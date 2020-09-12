@@ -75,7 +75,7 @@ Duration: 3 Days, 18:29:49
 
 - Complete Python Web Course: Build 8 Python Web Apps
 
-- Advanced Scalable Python Web Development Using Flask
+- Advanced Scalable Python Web Development Using Flask (AWS Based)
 
 ## Full List of Courses
 
