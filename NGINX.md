@@ -22,4 +22,22 @@ HTTP is a `connectionless` text based protocol where a Web-Browser (Client) send
 
 NGINX vs Apache: NGINX is faster at serving static files but does not have a .htaccess file which allows for directory based access controls vs global access controls.
 
-### Installing and Running
+### Installing and Running (AWS Linux 2 - RHEL Based)
+
+*Note: When standing up new ec2 server, chmod 400 the .pem key*
+
+- Confirm version of AWS AMI using the below command
+    ```
+    cat /etc/os-release
+    ```
+- Run AWS based commands and verify version installed correctly
+    ```
+    sudo amazon-linux-extras install nginx1
+    sudo nginx -v 
+    ```
+- Use systemd to run NGINX as a server to boot when server starts
+    ```
+    $ sudo systemctl start nginx
+    $ sudo systemctl enable nginx
+    ```
+- Restart server and `navigate to AWS Public IP` to see if NGINX is loaded at front page. Make sure you modify the security group to allow inbound HTTP traffic from 0.0.0.0/0.
