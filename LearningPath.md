@@ -71,6 +71,8 @@ Duration: 3 Days, 18:29:49
 
 ## Interesting Courses - Udemy
 
+- Python REST API's with Flask, Docker, MongoDB, and AWS DevOps
+
 - The Python Mega Coruse: Build 10 Real World Apps
 
 - Complete Python Web Course: Build 8 Python Web Apps

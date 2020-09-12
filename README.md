@@ -13,6 +13,8 @@ Setting up Python
 
 [AWS](/AWS.md)
 
+[Python](/Python.md)
+
 ## Linux
 
 *Moving local file to ec2-instance*
