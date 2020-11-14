@@ -15,6 +15,9 @@ Setting up Python
 
 [Python](/Python.md)
 
+[Kubernetes](/K8.md)
+
+
 ## Linux
 
 *Moving local file to ec2-instance*
